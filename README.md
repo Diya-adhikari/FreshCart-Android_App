@@ -3,10 +3,27 @@ FreshCart-Android_App
 This app demonstrates modern Android development practices—Jetpack Compose, MVVM architecture, Room database persistence, Material 3 theming, real-time order tracking UI, and Gemini AI integration. It is an impressive showcase project for tech interviews or freelance work.
 
 Smart Grocery Management App with CRUD operations, voice-to-grocery parsing, intelligent search, budget tracking, categories, and AI recommendations.
-
-Tech Stack: Kotlin, Jetpack Compose, Material 3, Android Architecture Components (ViewModel, StateFlow), Room SQLite database, Coroutines.
-AI Integration: Google Gemini 1.5 Flash for natural language smart voice grocery parsing and AI recipe ingredient matchers.
-Key Features: Full Indian Rupee (₹) localization, express delivery ordering simulation (15–25 mins), UPI/COD payments, live order tracking pipeline, and budgeting analytics.
+--
+## Tech Stack
+Kotlin
+Jetpack Compose
+Material 3
+Android Architecture Components (ViewModel, StateFlow)
+Room SQLite database
+Coroutines
+--
+##AI Integration
+Google Gemini 1.5 Flash
+Smart voice grocery parsing
+AI recipe ingredient matcher
+--
+## Key Features
+Full Indian Rupee (₹) localization
+Express delivery simulation (15–25 mins)
+UPI and Cash-on-Delivery (COD) payments
+Live order tracking pipeline
+Budgeting analytics
+--
 
 ## Environment Setup
 
