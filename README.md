@@ -1,6 +1,6 @@
-# FreshCart-Android_App
-FreshCart-Android_App
-This app demonstrates modern Android development practices—Jetpack Compose, MVVM architecture, Room database persistence, Material 3 theming, real-time order tracking UI, and Gemini AI integration. It is an impressive showcase project for tech interviews or freelance work.
+## FreshCart-Android_App
+
+**This app demonstrates modern Android development practices—Jetpack Compose, MVVM architecture, Room database persistence, Material 3 theming, real-time order tracking UI, and Gemini AI integration.**
 
 Smart Grocery Management App with CRUD operations, voice-to-grocery parsing, intelligent search, budget tracking, categories, and AI recommendations.
 --
