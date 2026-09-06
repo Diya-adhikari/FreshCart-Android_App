@@ -18,6 +18,7 @@ Google Gemini 1.5 Flash
 Smart voice grocery parsing
 AI recipe ingredient matcher
 --
+---
 ## Key Features
 Full Indian Rupee (₹) localization
 Express delivery simulation (15–25 mins)
