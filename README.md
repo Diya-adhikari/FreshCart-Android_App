@@ -12,7 +12,7 @@ Android Architecture Components (ViewModel, StateFlow)
 Room SQLite database
 Coroutines
 --
-##AI Integration
+## AI Integration
 Google Gemini 1.5 Flash
 Smart voice grocery parsing
 AI recipe ingredient matcher
